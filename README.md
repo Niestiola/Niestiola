@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AdegokeOla
+- 👋 Hi, I’m @Niestiola
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
